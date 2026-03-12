@@ -23,10 +23,10 @@ Currently available for freelance projects.
 
 | Project | Description | Live |
 |---|---|---|
-| [Portfolio Website](https://github.com/johank/portfolio-website) | My personal portfolio — design and code | [johank.netlify.app](https://johank.netlify.app) |
-| [Restaurant Landing Page](https://github.com/johank/restaurant-landing-page) | Elegant landing page for a fine dining restaurant | [Live demo](#) |
-| [Startup Landing Page](https://github.com/johank/startup-landing-page) | High-converting SaaS landing page with waitlist form | [Live demo](#) |
-| [UI Mobile Optimization](https://github.com/johank/ui-mobile-optimization) | Before/after mobile redesign case study | [Live demo](#) |
+| [Portfolio Website](https://github.com/johank/johan-k-portfolio) | My personal portfolio — design and code | [johank.netlify.app](https://johank.netlify.app) |
+| [Restaurant Landing Page](https://github.com/johank/restaurant-landing-page) | Elegant landing page for a fine dining restaurant | [Live demo](https://johank-portfolio-restaurant.netlify.app/) |
+| [Startup Landing Page](https://github.com/johank/startup-landing-page) | High-converting SaaS landing page with waitlist form | [Live demo](https://johank-portfolio-startup.netlify.app/) |
+| [UI Mobile Optimization](https://github.com/johank/ui-mobile-optimization) | Before/after mobile redesign case study | [Live demo](https://johank-portfolio-mobile-ui.netlify.app/) |
 
 ---
 
