@@ -23,7 +23,7 @@ Currently available for freelance projects.
 
 | Project | Description | Live |
 |---|---|---|
-| [Portfolio Website](https://github.com/johankdev1-cyber/johan-k-portfolio) | My personal portfolio — design and code | [johank.netlify.app](https://johank.netlify.app) |
+| [Portfolio Website](https://github.com/johankdev1-cyber/johan-k-portfolio) | My personal portfolio — design and code | [johan-k.vercel.app](https://johan-k.vercel.app) |
 | [Restaurant Landing Page](https://github.com/johankdev1-cyber/restaurant-landing-page) | Elegant landing page for a fine dining restaurant | [Live demo](https://johank-portfolio-restaurant.netlify.app/) |
 | [Startup Landing Page](https://github.com/johankdev1-cyber/startup-landing-page) | High-converting SaaS landing page with waitlist form | [Live demo](https://johank-portfolio-startup.netlify.app/) |
 | [UI Mobile Optimization](https://github.com/johankdev1-cyber/ui-mobile-optimization) | Before/after mobile redesign case study | [Live demo](https://johank-portfolio-mobile-ui.netlify.app/) |
@@ -44,4 +44,4 @@ Currently available for freelance projects.
 Got a project in mind? I'd love to hear about it.
 
 📧 [johank.dev1@gmail.com](mailto:johank.dev1@gmail.com)
-🌐 [johank.netlify.app](https://johank.netlify.app)
+🌐 [johan-k.vercel.app](https://johan-k.vercel.app)
